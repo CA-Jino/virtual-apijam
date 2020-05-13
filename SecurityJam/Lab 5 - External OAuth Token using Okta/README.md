@@ -15,7 +15,7 @@ In this lab, we will use Apigee as the OAuth provider to protect the API endpoin
 # **How can Apigee Edge help?**
 
 See (optional): [Apigee + Okta - Using OAuth 2.0 Resource Owner / Password Grant Type](https://community.apigee.com/articles/28752/apigeeokta-integration-resource-owner-password-gra.html)  
-(オプション)を参照してください。Apigee + Okta - Using OAuth 2.0 Resource Owner / Password Grant Type](https://community.apigee.com/articles/28752/apigeeokta-integration-resource-owner-password-gra.html)を参照してください。
+(オプション)を参照してください。[Apigee + Okta - Using OAuth 2.0 Resource Owner / Password Grant Type](https://community.apigee.com/articles/28752/apigeeokta-integration-resource-owner-password-gra.html)を参照してください。
 
 Apigee has built in support to implement OAuth 2.0 in the resource owner / password grant type. Using the [OAuthV2 policy](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy), Apigee Edge can be configured to act as the authorization provider for access to the API, while using the [Service Callout policy](https://docs.apigee.com/api-platform/reference/policies/service-callout-policy) to invoke Okta's authentication API to authenticate the identity of the app end user.  
 Apigeeはリソースの所有者/パスワード付与タイプにOAuth 2.0を実装するためのサポートを内蔵しています。[OAuthV2ポリシー](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy)を使用することで、Apigee EdgeはAPIへのアクセスのための認証プロバイダとして動作するように設定することができ、一方で[Service Calloutポリシー](https://docs.apigee.com/api-platform/reference/policies/service-callout-policy)を使用することで、アプリのエンドユーザーのアイデンティティを認証するためにOktaの認証APIを呼び出すように設定することができます。
