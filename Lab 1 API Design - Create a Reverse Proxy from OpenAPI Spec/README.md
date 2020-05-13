@@ -124,10 +124,10 @@ Basic understanding of [OpenAPI Specification](https://github.com/OAI/OpenAPI-Sp
 ![image alt text](./media/image_10.png)
 
 * Verify the values and click **Next**.  
-  値を確認して、クリックします。
+  値を確認して、**Next**をクリックします。
 
 * You can select, de-select list of API Proxy Resources that are pre-filled from the OpenAPI Spec. Make sure all resources are selected and click on **Next**.  
-* OpenAPI仕様書から事前に入力されているAPIプロキシリソースのリストを選択、選択解除することができます。全てのリソースが選択されていることを確認し、**Next**をクリックします。
+OpenAPI仕様書から事前に入力されているAPIプロキシリソースのリストを選択、選択解除することができます。全てのリソースが選択されていることを確認し、**Next**をクリックします。
 
 ![image alt text](./media/image_11.png)
 
