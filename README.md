@@ -10,7 +10,7 @@ Apigee’s API Jam workshop provides a streamlined approach to evaluating the Ap
 ApigeeのAPI Jamワークショップでは、Apigee Edgeプラットフォームを評価するための合理的なアプローチを提供します。  
 
 The lab-based curriculum covers the most critical evaluation criteria that companies should consider when selecting an API management platform.  
-ApigeeのAPI Jamワークショップでは、Apigee Edgeプラットフォームを評価するための合理的なアプローチを提供します。ラボベースのカリキュラムでは、企業がAPI管理プラットフォームを選択する際に考慮すべき最も重要な評価基準を網羅しています。  
+ラボベースのカリキュラムでは、企業がAPI管理プラットフォームを選択する際に考慮すべき最も重要な評価基準を網羅しています。  
 
 This workshop takes into account the experience of hundreds of customers who have used Apigee Edge to implement a successful API program.  
 このワークショップでは、Apigee Edgeを使用してAPIプログラムを成功させた何百もの顧客の経験を考慮に入れています。  
