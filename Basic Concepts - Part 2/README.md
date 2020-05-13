@@ -23,7 +23,7 @@ Publishing is the process of making your APIs available to app developers for co
 3. Register developer apps on Edge.  
    開発者アプリをEdgeに登録する。
 4. Provide documentation and community support for your APIs.  
-　　APIのドキュメントとコミュニティサポートを提供します。
+　APIのドキュメントとコミュニティサポートを提供します。
 
 ![image alt text](./media/api_consumption_dvc.png)
 
