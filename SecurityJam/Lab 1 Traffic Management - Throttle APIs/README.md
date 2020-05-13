@@ -20,7 +20,7 @@ In this lab we will see how to use an out of the box traffic management policy, 
 # Pre-requisites  前提条件
 
 * Basic understanding of [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) (Swagger)  
-  [OpenAPI仕様]の基本的な理解(https://github.com/OAI/OpenAPI-Specification) (Swagger)
+  [OpenAPI仕様](https://github.com/OAI/OpenAPI-Specification)の基本的な理解 (Swagger)
 * Completed a previous [Virtual API Jam](https://github.com/rmistry75/devjam3/tree/master/Labs/VirtualAPIJam) or have the equivalent knowledge. Alternatively, go through the ["Getting started guide"](https://docs.apigee.com/api-platform/get-started/get-started) in the Apigee Docs site.  
 過去の[Virtual API Jam](https://github.com/rmistry75/devjam3/tree/master/Labs/VirtualAPIJam)を修了しているか、同等の知識を持っていること。またはApigee Docsサイトの["Getting started guide"](https://docs.apigee.com/api-platform/get-started/get-started)を参照してください。
 
