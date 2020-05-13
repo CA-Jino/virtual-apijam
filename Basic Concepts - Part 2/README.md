@@ -33,10 +33,10 @@ Apigee Edgeでのパブリッシングを説明する簡単な動画です。
 
 # What is an API Product?
 
-An API product bundles API resources, such as API proxies and the API resource URIs that the proxy exposes, in order to provide a specific level of access and functionality for client app developers. An API product typically specifies a list of API proxies and API resource URIs, along with access limits, API key approval method, and other configuration that define how the bundled APIs can be used.　　
+An API product bundles API resources, such as API proxies and the API resource URIs that the proxy exposes, in order to provide a specific level of access and functionality for client app developers. An API product typically specifies a list of API proxies and API resource URIs, along with access limits, API key approval method, and other configuration that define how the bundled APIs can be used.  
 API製品は、クライアントアプリ開発者に特定のレベルのアクセスと機能を提供するために、APIプロキシやプロキシが公開するAPIリソースURIなどのAPIリソースをバンドルする。API製品は通常、APIプロキシとAPIリソースURIのリストを、アクセス制限、APIキー承認方法、およびバンドルされたAPIの使用方法を定義するその他の設定とともに指定します。
 
-Typically, this type of bundling allows API producers to decouple the development and production of the API, from the consumption of the API. By doing so, API producers are able to provide different access models and tiers for their APIs. Different API products - perhaps even bundling the same API proxies - provide service levels for different use cases. Instead of just giving developers a list of resources, you can bundle specific resources together to create a product that solves a specific user need.　　
+Typically, this type of bundling allows API producers to decouple the development and production of the API, from the consumption of the API. By doing so, API producers are able to provide different access models and tiers for their APIs. Different API products - perhaps even bundling the same API proxies - provide service levels for different use cases. Instead of just giving developers a list of resources, you can bundle specific resources together to create a product that solves a specific user need.  
 一般的に、このタイプのバンドルにより、API プロデューサは API の開発と生産を API の消費から切り離すことができます。そうすることで、API プロデューサは API に異なるアクセスモデルや階層を提供することができます。異なる API 製品（おそらく同じ API プロキシをバンドルしたものであっても）は、異なるユースケースに対応したサービスレベルを提供します。開発者にリソースのリストを与えるだけではなく、特定のリソースをバンドルして、特定のユーザーのニーズを解決する製品を作成することができます。
 
 ![image alt text](./media/api_product_examples.png)
