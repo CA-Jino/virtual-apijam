@@ -6,9 +6,16 @@ This is the supporting material for a remotely/virtually delivered, 2 hour hands
 ### Why should you attend Apigee’s API Jam?  
 ApigeeのAPI Jamに参加するメリットは？  
 
-Apigee’s API Jam workshop provides a streamlined approach to evaluating the Apigee Edge platform. The lab-based curriculum covers the most critical evaluation criteria that companies should consider when selecting an API management platform. This workshop takes into account the experience of hundreds of customers who have used Apigee Edge to implement a successful API program. It will teach you how to use the Apigee Edge platform to easily expose your backend services as secure, scalable APIs that developers will actually want to use. By the end of this workshop, you will walk away with practical hands-on experience using the Apigee Edge platform, along with an understanding of its comprehensive capabilities.
-
-ApigeeのAPI Jamワークショップでは、Apigee Edgeプラットフォームを評価するための合理的なアプローチを提供します。ラボベースのカリキュラムでは、企業がAPI管理プラットフォームを選択する際に考慮すべき最も重要な評価基準を網羅しています。このワークショップでは、Apigee Edgeを使用してAPIプログラムを成功させた何百もの顧客の経験を考慮に入れています。このワークショップでは、Apigee Edgeプラットフォームを使用して、バックエンドサービスを開発者が実際に使用したくなるようなセキュアでスケーラブルなAPIとして簡単に公開する方法を紹介します。このワークショップの終了時には、Apigee Edgeプラットフォームの包括的な機能を理解した上で、実践的なハンズオン体験を得ることができます。
+Apigee’s API Jam workshop provides a streamlined approach to evaluating the Apigee Edge platform.  
+ApigeeのAPI Jamワークショップでは、Apigee Edgeプラットフォームを評価するための合理的なアプローチを提供します。  
+The lab-based curriculum covers the most critical evaluation criteria that companies should consider when selecting an API management platform.  
+ApigeeのAPI Jamワークショップでは、Apigee Edgeプラットフォームを評価するための合理的なアプローチを提供します。ラボベースのカリキュラムでは、企業がAPI管理プラットフォームを選択する際に考慮すべき最も重要な評価基準を網羅しています。  
+This workshop takes into account the experience of hundreds of customers who have used Apigee Edge to implement a successful API program.  
+このワークショップでは、Apigee Edgeを使用してAPIプログラムを成功させた何百もの顧客の経験を考慮に入れています。  
+It will teach you how to use the Apigee Edge platform to easily expose your backend services as secure, scalable APIs that developers will actually want to use.  
+このワークショップでは、Apigee Edgeプラットフォームを使用して、バックエンドサービスを開発者が実際に使用したくなるようなセキュアでスケーラブルなAPIとして簡単に公開する方法を紹介します。  
+By the end of this workshop, you will walk away with practical hands-on experience using the Apigee Edge platform, along with an understanding of its comprehensive capabilities.
+このワークショップの終了時には、Apigee Edgeプラットフォームの包括的な機能を理解した上で、実践的なハンズオン体験を得ることができます。
 
 ### Who should attend Apigee’s API Jam? ApigeeのAPI Jamに参加すべき人は？
 This workshop will be valuable to API developers, architects, and anyone who wants to understand how to create a successful API program.
