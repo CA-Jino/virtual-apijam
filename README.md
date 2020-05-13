@@ -21,7 +21,8 @@ It will teach you how to use the Apigee Edge platform to easily expose your back
 By the end of this workshop, you will walk away with practical hands-on experience using the Apigee Edge platform, along with an understanding of its comprehensive capabilities.
 このワークショップの終了時には、Apigee Edgeプラットフォームの包括的な機能を理解した上で、実践的なハンズオン体験を得ることができます。
 
-### Who should attend Apigee’s API Jam? ApigeeのAPI Jamに参加すべき人は？
+### Who should attend Apigee’s API Jam?  
+ApigeeのAPI Jamに参加すべき人は？
 This workshop will be valuable to API developers, architects, and anyone who wants to understand how to create a successful API program.
 このワークショップは、API開発者、アーキテクト、そして成功するAPIプログラムを作成する方法を理解したい人にとって貴重なものとなるでしょう。
 
