@@ -13,7 +13,9 @@ This workshop will be valuable to API developers, architects, and anyone who wan
 このワークショップは、API開発者、アーキテクト、そして成功するAPIプログラムを作成する方法を理解したい人にとって貴重なものとなるでしょう。
 
 ### Sign-up for an Apigee Edge trial account
-You will have to sign up for a free trial account on Apigee Edge, which you can use to build our labs on the day of the API Jam. Visit this page to create an account: https://login.apigee.com/sign_up
+You will have to sign up for a free trial account on Apigee Edge, which you can use to build our labs on the day of the API Jam.
+Apigee Edgeの無料トライアルアカウントにサインアップする必要があります。
+Visit this page to create an account: https://login.apigee.com/sign_up
 
 ### Agenda
 * Introduction to Apigee Edge API Management
