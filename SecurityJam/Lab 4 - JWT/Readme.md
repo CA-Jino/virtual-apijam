@@ -79,7 +79,7 @@ JWTプロキシの**Trace**をオンにすることから始めてください�
 その後、Apigee Rest Clientを使用してください。[https://apigee-rest-client.appspot.com/](https://apigee-rest-client.appspot.com/)
 
 * POST to https://**{your-org-name}**-test.apigee.net/v1/jwt/token  
-https://**{your-org-name}**-test.apigee.net/v1/jwt/tokenにPOSTします。
+https://**{your-org-name}**-test.apigee.net/v1/jwt/token にPOSTします。
 
 ![image alt text](./media/image_9.png)
 
@@ -87,7 +87,7 @@ https://**{your-org-name}**-test.apigee.net/v1/jwt/tokenにPOSTします。
 HTTPレスポンスで受信したトークンが表示されているはずです。 トークンの値をコピーして（"を除いて）、トレースツールで確認してください。
 
 * Go to [http://jwt.io](http://jwt.io) and paste the token in the Encoded Window (ensure the algorithm is HS256).  Also type the shared secret (e.g. **Apigee123** unless you changed it) in the Verify Signature box:  
-http://jwt.io](http://jwt.io)にアクセスし、エンコードされたウィンドウにトークンを貼り付けます(アルゴリズムがHS256であることを確認してください)。 また、Verify Signature ボックスに共有秘密(例: **Apigee123**)を入力してください。
+[http://jwt.io](http://jwt.io) にアクセスし、エンコードされたウィンドウにトークンを貼り付けます(アルゴリズムがHS256であることを確認してください)。 また、Verify Signature ボックスに共有秘密(例: **Apigee123**)を入力してください。
 
 ![image alt text](./media/image_10.png)
 
@@ -95,7 +95,7 @@ http://jwt.io](http://jwt.io)にアクセスし、エンコードされたウィ
 トークンを確認します。 同じApigee RESTツールを使用して、以下のように検証します。
 
 * POST to https://**{your-org-name}**-test.apigee.net/v1/jwt/verify  
-https://**{your-org-name}**-test.apigee.net/v1/jwt/verifyにPOSTします。
+https://**{your-org-name}**-test.apigee.net/v1/jwt/verify にPOSTします。
 
 * In the Header, put "token" and its value  
 ヘッダーに "token "とその値を入れてください。
