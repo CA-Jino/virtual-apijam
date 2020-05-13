@@ -106,7 +106,8 @@ Basic understanding of [OpenAPI Specification](https://github.com/OAI/OpenAPI-Sp
 
 ![image alt text](./media/image_9.png)
 
-* Enter the proxy name, base path, and description. This is the first version of our Employees API, so we'll make it version プロキシ名、ベースパス、説明文を入力します。これは、従業員APIの最初のバージョンです。  
+* Enter the proxy name, base path, and description. This is the first version of our Employees API, so we'll make it versio  
+プロキシ名、ベースパス、説明文を入力します。これは、従業員APIの最初のバージョンです。  
 
 1. When you enter the proxy name, the proxy base path will automatically be populated, but you'll need to change the hyphen before the version to a forward slash.  
 プロキシ名を入力すると、プロキシのベースパスが自動的に入力されますが、バージョンの前のハイフンをフォワードスラッシュに変更する必要があります。
