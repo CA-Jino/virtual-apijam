@@ -1,5 +1,6 @@
 # Virtual API Jam
 This is the supporting material for a remotely/virtually delivered, 2 hour hands-on workshop that introduces developers to Apigee Edge.
+
 リモート/バーチャル配信のサポート資料で、Apigee Edgeの開発者を紹介する2時間のハンズオンワークショップです。
 
 ### Why should you attend Apigee’s API Jam? ApigeeのAPI Jamに参加するメリットは？
