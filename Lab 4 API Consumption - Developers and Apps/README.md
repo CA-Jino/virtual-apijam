@@ -77,7 +77,7 @@ In this lab, we will see how to register as an app developer, create an app in t
 
 ![image alt text](./media/image_10.png)
 
-* Click on the employee product to view the API Product documentation.
+* Click on the employee product to view the API Product documentation.  
   従業員製品をクリックすると、API製品のドキュメントが表示されます。
 
 ![image alt text](./media/image_11.png)
@@ -121,7 +121,7 @@ Typically, developers who want to consume APIs go to the developer portal and re
 リクエストを送信するには、**Send**をクリックします。(クエリ文字列にAPIキーを追加しないでください)。API プロキシがクエリパラメータとして API キーを期待していたため、API コールに対して 401 (Unauthorized) 応答が表示されるはずです。 これはAPIプロキシがクエリパラメータとしてAPIキーを期待していたからです。
 
 * Now add the query parameter ```?apikey={your_api_key}``` to the URL in the trace tool and try again.  (Replace ```{your_api_key}``` with the API key you just copied in this lab and resend the request. You should see a 2xx response code and the Trace for that request should show that the Verify API Key policy is now passing.  
-トレースツールのURLにクエリパラメータ```?apikey={your_api_key}````を追加して、もう一度試してみてください。 ( ````{your_api_key}```をこの研究室でコピーしたAPIキーに置き換えて、リクエストを再送信してください。2xxのレスポンスコードが表示され、そのリクエストのトレースはVerify API Keyポリシーが通過したことを示しているはずです。
+トレースツールのURLにクエリパラメータ```?apikey={your_api_key}```を追加して、もう一度試してみてください。 (```{your_api_key}```をこの研究室でコピーしたAPIキーに置き換えて、リクエストを再送信してください。2xxのレスポンスコードが表示され、そのリクエストのトレースはVerify API Keyポリシーが通過したことを示しているはずです。
 
 ![image alt text](./media/image_17.png)
 
