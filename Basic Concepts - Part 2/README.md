@@ -5,12 +5,12 @@ Apigee Edge API管理プラットフォームを利用したAPIパブリッシ�
 
 **Contents**
 
-* Publishing APIs using Apigee Edge(Apigee Edgeを使用したAPIの公開)
+* Publishing APIs using Apigee Edge  (Apigee Edgeを使用したAPIの公開)
 * What is an API Product?  (API製品とは何ですか？)
 * What is the Apigee Edge Developer Portal?  (Apigee Edge Developer Portalとは？)
 * Relationship between Developers -> Apps -> API Keys -> API Products -> API Proxies
 
-# Publishing APIs using Apigee Edge  (Apigee Edgeを使ったAPIの公開)
+# Publishing APIs using Apigee Edge(Apigee Edgeを使ったAPIの公開)
 
 Publishing is the process of making your APIs available to app developers for consumption. Publishing APIs involves the following tasks, described in this topic:  
 パブリッシングとは、API をアプリ開発者が消費できるようにするためのプロセスです。API の公開には、このトピックで説明する以下のタスクが含まれます。
