@@ -1,10 +1,11 @@
-# Basic Concepts - Part 2
+# Basic Concepts - Part 2  基本的な概念 - パート2
 
-Here are some basic concepts to introduce you to API Publishing using the Apigee Edge API Management Platform.
+Here are some basic concepts to introduce you to API Publishing using the Apigee Edge API Management Platform.  
+Apigee Edge API管理プラットフォームを利用したAPIパブリッシングの基本的な考え方をご紹介します。
 
 **Contents**
 
-* Publishing APIs using Apigee Edge
+* Publishing APIs using Apigee Edge  Apigee Edgeを使用したAPIの公開
 * What is an API Product?
 * What is the Apigee Edge Developer Portal?
 * Relationship between Developers -> Apps -> API Keys -> API Products -> API Proxies
