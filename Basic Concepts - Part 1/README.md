@@ -1,7 +1,8 @@
 # Basic Concepts - Part 1   　基本的な概念 - パート1
 
 Here are some basic concepts to introduce you to the Apigee Edge API Management Platform.
- ここでは、Apigee Edge API管理プラットフォームの基本的な概念を紹介します。
+
+ここでは、Apigee Edge API管理プラットフォームの基本的な概念を紹介します。
 
 **Contents**
 
