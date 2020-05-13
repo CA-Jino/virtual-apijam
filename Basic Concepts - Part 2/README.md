@@ -5,7 +5,7 @@ Apigee Edge API管理プラットフォームを利用したAPIパブリッシ�
 
 **Contents**
 
-* Publishing APIs using Apigee Edge  (Apigee Edgeを使用したAPIの公開)
+* Publishing APIs using Apigee Edge(Apigee Edgeを使用したAPIの公開)
 * What is an API Product?  (API製品とは何ですか？)
 * What is the Apigee Edge Developer Portal?  (Apigee Edge Developer Portalとは？)
 * Relationship between Developers -> Apps -> API Keys -> API Products -> API Proxies
