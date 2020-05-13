@@ -1,8 +1,6 @@
 # Basic Concepts - Part 1   　基本的な概念 - パート1
 
-Here are some basic concepts to introduce you to the Apigee Edge API Management Platform.
-
-ここでは、Apigee Edge API管理プラットフォームの基本的な概念を紹介します。
+Here are some basic concepts to introduce you to the Apigee Edge API Management Platform.  ここでは、Apigee Edge API管理プラットフォームの基本的な概念を紹介します。
 
 **Contents**
 
@@ -28,21 +26,20 @@ Once you have logged in, you will have access to the Management UI as shown belo
 
 ![image alt text](./media/management_ui.jpg)
 
-The Management UI has different sections to access the various Design & Development, Publishing, Monitoring and Administration functions within the platform.
+The Management UI has different sections to access the various Design & Development, Publishing, Monitoring and Administration functions within the platform.  管理UIには、プラットフォーム内のさまざまな設計・開発、公開、監視、管理機能にアクセスするためのさまざまなセクションがあります。
 
 ### API Design & Development
 
 ![image alt text](./media/ui_develop.jpg)
 
-To access this section, navigate to the ‘Develop’ tab on the left corner of the Management UI. This section provides menus to perform API design and development tasks.
-このセクションにアクセスするには、管理UIの左隅にある「開発」タブに移動します。このセクションでは、API設計と開発タスクを実行するためのメニューを提供します。
+To access this section, navigate to the ‘Develop’ tab on the left corner of the Management UI. This section provides menus to perform API design and development tasks.  このセクションにアクセスするには、管理UIの左隅にある「開発」タブに移動します。このセクションでは、API設計と開発タスクを実行するためのメニューを提供します。
 
 ### Publish APIs
 
 ![image alt text](./media/ui_publish.jpg)
 
 To access this section, navigate to the ‘Publish’ tab on the left corner of the Management UI. This section provides functionality used to package APIs and publish them for developer consumption, as well as manage the consumers. 
-このセクションにアクセスするには、管理UIの左隅にある「Publish」タブに移動します。このセクションでは、API をパッケージ化して開発者が利用できるように公開するための機能や、コンシューマーを管理するための機能を提供します。
+  このセクションにアクセスするには、管理UIの左隅にある「Publish」タブに移動します。このセクションでは、API をパッケージ化して開発者が利用できるように公開するための機能や、コンシューマーを管理するための機能を提供します。
 
 ### Anlytics
 
