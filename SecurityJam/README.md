@@ -7,7 +7,8 @@ API developers and architects who want to build a secure API, this workshop is f
 安全なAPIを構築したいと考えているAPI開発者やアーキテクトの方、このワークショップはあなたのためのものです。
 
 ## **Who should attend?**  参加対象者は？
-This workshop will be valuable to API developers, architects, and anyone who wants to understand how to secure APIs exposed through Apigee Edge.
+This workshop will be valuable to API developers, architects, and anyone who wants to understand how to secure APIs exposed through Apigee Edge.  
+このワークショップは、API開発者、アーキテクト、そしてApigee Edgeで公開されているAPIをセキュアにする方法を理解したいと考えている方にとって有益な内容となっています。
 
 ## **What do attendees need to bring**
 - Register for the session. Make sure to register for the Virtual API Jam so that we can send you the relevant connection details to join the online session.  
