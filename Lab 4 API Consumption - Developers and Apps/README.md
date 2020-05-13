@@ -20,7 +20,7 @@ In this lab, we will see how to register as an app developer, create an app in t
 # Pre-requisites  前提条件
 
 *API Security* and *API Publishing* lab exercises.   
-*APIセキュリティ*とAPIパブリッシング*のラボ演習。
+*APIセキュリティ* と *APIパブリッシング*のラボ演習。
 
 # Instructions
 
