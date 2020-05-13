@@ -16,7 +16,8 @@ You have decided to follow a design first approach & build a reusable component,
 You would like to generate an Apigee API Proxy by using the OpenAPI Specification (Swagger) instead of building the API Proxy from scratch.  
 APIプロキシをスクラッチから構築するのではなく、OpenAPI Specification (Swagger)を使用してApigee APIプロキシを生成したいと考えています。
 
-# How can Apigee Edge help? Apigee Edgeはどのように役立ちますか？
+# How can Apigee Edge help?  
+Apigee Edgeはどのように役立ちますか？
 
 Apigee Edge enables you to quickly expose backend services as APIs.  
 Apigee Edgeを使用すると、バックエンドサービスをAPIとして素早く公開することができます。
@@ -44,8 +45,8 @@ In this lab, we will see how to create a reverse proxy that routes inbound reque
 
 # Pre-requisites    前提条件
 
-Basic understanding of [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) (Swagger)
-OpenAPI仕様の基本的な理解
+Basic understanding of [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) (Swagger)  
+[OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) (Swagger)  仕様の基本的な理解
 
 # Instructions
 
