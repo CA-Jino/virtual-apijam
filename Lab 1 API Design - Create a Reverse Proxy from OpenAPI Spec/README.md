@@ -46,7 +46,7 @@ In this lab, we will see how to create a reverse proxy that routes inbound reque
 # Pre-requisites    前提条件
 
 Basic understanding of [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) (Swagger)  
-[OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) (Swagger)  仕様の基本的な理解
+[OpenAPI 仕様](https://github.com/OAI/OpenAPI-Specification)の基本的な理解 (Swagger) 
 
 # Instructions
 
