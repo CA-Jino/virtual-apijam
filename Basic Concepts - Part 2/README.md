@@ -43,7 +43,7 @@ Typically, this type of bundling allows API producers to decouple the developmen
 
 ### API Keys
 
-On Apigee Edge, API proxies bundled within API products, can be accessed using an API key. Each client application registered by app developers on Edge, is assigned an API key and API secret. This app credential pair allows access to one or more API products.　　
+On Apigee Edge, API proxies bundled within API products, can be accessed using an API key. Each client application registered by app developers on Edge, is assigned an API key and API secret. This app credential pair allows access to one or more API products.  
 Apigee Edge上では、API製品にバンドルされているAPIプロキシにAPIキーを利用してアクセスすることができます。Edge上のアプリ開発者が登録した各クライアントアプリケーションには、APIキーとAPIシークレットが割り当てられます。このアプリのクレデンシャルペアにより、1つ以上のAPI製品へのアクセスが可能になります。
 
 ![image alt text](./media/api_product.png)
@@ -52,20 +52,20 @@ Apigee Edge上では、API製品にバンドルされているAPIプロキシに
 
 ![image alt text](./media/dev_portal.png)
 
-Developer portals with social publishing features are increasingly being used for communication with the developer community. This includes communicating static content, such as API documentation and terms-of-use, as well as dynamic community-contributed content such as blogs and forums. 　
+Developer portals with social publishing features are increasingly being used for communication with the developer community. This includes communicating static content, such as API documentation and terms-of-use, as well as dynamic community-contributed content such as blogs and forums.  
 ソーシャルパブリッシング機能を備えた開発者ポータルは、開発者コミュニティとのコミュニケーションにますます利用されるようになってきています。これには、API ドキュメントや利用規約などの静的なコンテンツだけでなく、ブログやフォーラムなどの動的なコミュニティ貢献コンテンツのコミュニケーションも含まれます。 
 
-As an API provider, you need a way to expose your APIs, educate developers about your APIs, sign up developers, and let developers register apps. Exposing your APIs to developers is only part of creating a truly dynamic community. You also need a way for your developer community to provide feedback, make support and feature requests, and submit their own content that can be accessed by other developers.　　
+As an API provider, you need a way to expose your APIs, educate developers about your APIs, sign up developers, and let developers register apps. Exposing your APIs to developers is only part of creating a truly dynamic community. You also need a way for your developer community to provide feedback, make support and feature requests, and submit their own content that can be accessed by other developers.  
 API プロバイダとしては、API を公開し、開発者に API に関する教育を行い、開発者をサインアップし、開発者がアプリを登録できるようにする方法が必要です。API を開発者に公開することは、真のダイナミックなコミュニティを作るためのほんの一部に過ぎません。また、開発者コミュニティがフィードバックを提供したり、サポートや機能のリクエストをしたり、他の開発者がアクセスできるような独自のコンテンツを提出したりする方法も必要です。
 
-Apigee Edge provides you with a Developer Portal that you can use to build and launch your own customized website to provide all of these services to your development community. Every Edge customer can create their own developer portal, either in the cloud or on-prem. This Developer Portal comes pre-built with Interactive Open API Spec based API documentation, API subscription self-service, Role-based access control, and many more features.　　
+Apigee Edge provides you with a Developer Portal that you can use to build and launch your own customized website to provide all of these services to your development community. Every Edge customer can create their own developer portal, either in the cloud or on-prem. This Developer Portal comes pre-built with Interactive Open API Spec based API documentation, API subscription self-service, Role-based access control, and many more features.  
 Apigee Edgeでは、開発者コミュニティにこれらのサービスを提供するために、独自のカスタマイズされたWebサイトを構築して立ち上げることができる開発者ポータルを提供しています。Edgeのお客様は、クラウドまたはオンプレミスのいずれかで、独自の開発者ポータルを作成することができます。この開発者ポータルには、インタラクティブなオープンAPI仕様ベースのAPIドキュメント、APIサブスクリプションのセルフサービス、役割ベースのアクセス制御など、さまざまな機能があらかじめ組み込まれています。
 
 [![image alt text](./media/dev_portal_overview_link.png)](https://youtu.be/MMbbGdffCUI)
 
 # Relationship between Developers -> Apps -> API Keys -> API Products -> API Proxies
 
-The following image depicts the relationship between the different configuration entities on Apigee Edge, i.e. app developers, apps, API keys, API products and API proxies.　　
+The following image depicts the relationship between the different configuration entities on Apigee Edge, i.e. app developers, apps, API keys, API products and API proxies.  
 次の図は、Apigee Edge上のさまざまな設定エンティティ（アプリ開発者、アプリ、APIキー、API製品、APIプロキシなど）の関係を表しています。
 
 ![image alt text](./media/org_entity_relationships.png)
