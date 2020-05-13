@@ -223,13 +223,13 @@ curl -X GET -H "Authorization: Bearer {{access-token}}" "http://{{org-name}}-{{e
 
 # **Lab Video**
 
-If you are lazy and don’t want to implement this use case, it’s OK. You can watch this short video to see how to implement 2 legged OAuth on Apigee Edge [https://youtu.be/0pah5J7yQTQ](https://youtu.be/0pah5J7yQTQ)  　
+If you are lazy and don’t want to implement this use case, it’s OK. You can watch this short video to see how to implement 2 legged OAuth on Apigee Edge [https://youtu.be/0pah5J7yQTQ](https://youtu.be/0pah5J7yQTQ)  
 怠け者でこのユースケースを実装したくないという方も大丈夫です。Apigee Edgeで2本足OAuthを実装する方法は、こちらのショートビデオをご覧ください [https://youtu.be/0pah5J7yQTQ](https://youtu.be/0pah5J7yQTQ)
 
 # **Earn Extra-points**
 
 Now that you’ve learned how to secure your API with OAuth 2.0, try to control the expiry of the access token that is generated, using the [<ExpiresIn>](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy#expiresinelement) configuration element of the [OAuthV2 policy](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy#expiresinelement).  
-   OAuth 2.0でAPIを保護する方法がわかったので、[OAuthV2 policy](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy#expiresinelement)の設定要素[<ExpiresIn>](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy#expiresinelement)を使って、生成されるアクセストークンの有効期限を制御してみましょう。
+  OAuth 2.0でAPIを保護する方法がわかったので、[OAuthV2 policy](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy#expiresinelement)の設定要素[<ExpiresIn>](https://docs.apigee.com/api-platform/reference/policies/oauthv2-policy#expiresinelement)を使って、生成されるアクセストークンの有効期限を制御してみましょう。
 
 # **Summary**
 
