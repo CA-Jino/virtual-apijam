@@ -90,7 +90,7 @@ In this lab, we will see how to register as an app developer, create an app in t
 * Let’s **create** a developer app.
 
 Typically, developers who want to consume APIs go to the developer portal and register to use them. When registering, the developer gets to select which of the API products he or she wishes to use. For example, some products may be offered for free, while others require payment depending on a service plan. Upon completion, this registration step produces an Edge entity called a **developer app**. A developer app includes the products the developer selected and a set of API keys that the developer will be required to use to access the APIs that are associated with those products.   
-通常、APIを利用したい開発者は、開発者ポータルにアクセスし、登録してAPIを利用します。登録の際に、開発者はどのAPI製品を利用したいかを選択することができます。例えば、製品によっては無料で提供されるものもあれば、サービスプランに応じて支払いが必要なものもあります。この登録ステップが完了すると、***開発者アプリ**と呼ばれるEdgeエンティティが生成されます。開発者アプリには、開発者が選択した製品と、それらの製品に関連するAPIにアクセスするために必要なAPIキーのセットが含まれます。
+通常、APIを利用したい開発者は、開発者ポータルにアクセスし、登録してAPIを利用します。登録の際に、開発者はどのAPI製品を利用したいかを選択することができます。例えば、製品によっては無料で提供されるものもあれば、サービスプランに応じて支払いが必要なものもあります。この登録ステップが完了すると、**開発者アプリ**と呼ばれるEdgeエンティティが生成されます。開発者アプリには、開発者が選択した製品と、それらの製品に関連するAPIにアクセスするために必要なAPIキーのセットが含まれます。
 
 * To Create an app, Click on your **Email Address** & then **My Apps** in the top menu bar.　　
   アプリを作成するには、**メールアドレス**をクリックし、上部メニューバーの**マイアプリ**をクリックします。
