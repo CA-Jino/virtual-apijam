@@ -114,21 +114,22 @@ Policies may be conditionally executed based on the content or context of a requ
 
 **Proxy & Target Endpoints**
 
-In an API proxy configuration, there are two types of endpoints: 
+In an API proxy configuration, there are two types of endpoints:  
+[公式ドキュメント](https://docs.apigee.com/api-platform/fundamentals/understanding-apis-and-api-proxies)
 
 ![image alt text](./media/endpoints.jpg)
 
 * **ProxyEndpoint**: Defines the way client apps consume your APIs. You configure the ProxyEndpoint to define the URL of your API proxy.  
-クライアントアプリが API を消費する方法を定義します。API プロキシの URL を定義するために ProxyEndpoint を構成します。  
+クライアント アプリでの API の使用方法を定義します。ProxyEndpoint を構成して API プロキシの URL を定義することができます。    
 The proxy endpoint also determines whether apps access the API proxy over HTTP or HTTPS. You usually attach policies to the ProxyEndpoint to enforce security, quota checks, and other types of access control and rate-limiting.  
-また、プロキシエンドポイントは、アプリが API プロキシに HTTP でアクセスするか HTTPS でアクセスするかを決定します。通常、ProxyEndpoint にポリシーをアタッチして、セキュリティ、クォータチェック、およびその他のタイプのアクセス制御やレート制限を実施します。  
+またプロキシ エンドポイントにより、アプリが HTTP と HTTPS のどちらで API プロキシにアクセスするかが決まります。通常、ポリシーを ProxyEndpoint に添付することで、セキュリティ、割り当てチェック、その他のアクセス制御やレート制限を適用できます。   
 
 * **TargetEndpoint**: Defines the way the API proxy interacts with your backend services.   
-API プロキシがバックエンドサービスと相互作用する方法を定義します。  
+API プロキシとバックエンド サーバーとのやりとりの方法を定義します。  
 You configure the TargetEndpoint to forward requests to the proper backend service, including defining any security settings, HTTP or HTTPS protocol, and other connection information.   
-TargetEndpoint を構成して、セキュリティ設定、HTTP または HTTPS プロトコル、およびその他の接続情報の定義を含めて、適切なバックエンド サービスにリクエストを転送します。  
+セキュリティ設定、HTTP または HTTPS プロトコル、その他の接続情報の定義など、リクエストが適切なバックエンド サービスに転送されるように、TargetEndpoint を構成できます。  
 You can attach policies to the TargetEndpoint to ensure that response messages are properly formatted for the app that made the initial request.  
-TargetEndpoint にポリシーを追加して、応答メッセージが最初のリクエストを行ったアプリのために適切にフォーマットされるようにすることができます。
+ポリシーを TargetEndpoint に添付すると、最初のリクエストを実行したアプリ用にレスポンス メッセージが適切に形式設定されるようになります。
 
 **Flows**
 
