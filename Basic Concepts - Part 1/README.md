@@ -153,11 +153,10 @@ The proxy endpoint and target endpoint each contain flows that you can arrange i
 
 | Position | Flow type | Description |
 ----|----|---- 
-| 1 | PreFlow | Useful when you need to make sure that certain code executes before anything else happens.  
-何かが起こる前に特定のコードが実行されることを確認する必要がある場合に便利です。  
-
-If the PreFlow is in a target endpoint, it executes after the proxy endpoint's PostFlow.  
-PreFlow がターゲットエンドポイントにある場合、プロキシエンドポイントの PostFlow の後に実行されます。 |
-| 2 | Conditional Flow  条件付きフロー | The place for conditional logic. Executes after the PreFlow and before the PostFlow.  
-条件付き論理の場。PreFlow の後、PostFlow の前に実行します。 |
+| 1 | PreFlow | Useful when you need to make sure that certain code executes before anything else happens. |  
+|  |  | 何かが起こる前に特定のコードが実行されることを確認する必要がある場合に便利です。 |
+|  |  | If the PreFlow is in a target endpoint, it executes after the proxy endpoint's PostFlow. |
+|  |  | PreFlow がターゲットエンドポイントにある場合、プロキシエンドポイントの PostFlow の後に実行されます。 |
+| 2 | Conditional Flow  条件付きフロー | The place for conditional logic. Executes after the PreFlow and before the PostFlow. |
+|  |  | 条件付き論理の場。PreFlow の後、PostFlow の前に実行します。 |
 
