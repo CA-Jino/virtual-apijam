@@ -98,7 +98,7 @@ Apigeeは複数のインターフェースを同じAPIに公開することを�
 An API proxy is implemented as a set of configuration files, policies, and code that rely on a set of resources provided by Apigee Edge. API proxies can be generated and configured using the Apigee Edge management UI, or they can be implemented locally in a text editor or IDE.  
 APIプロキシは、Apigee Edgeが提供する一連のリソースに依存する設定ファイル、ポリシー、コードのセットとして実装されます。APIプロキシはApigee Edgeの管理UIを使用して生成・設定することも、テキストエディタやIDEでローカルに実装することもできます。  
 
-[![image alt text](./media/api_proxies_video.jpg)](https://vimeo.com/113341767)
+[![image alt text](./media/api_proxies_video.jpg)](https://youtu.be/JLwP2tRiRlI)
 
 **API Policies**
 
