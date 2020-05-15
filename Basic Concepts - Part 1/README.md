@@ -153,9 +153,7 @@ The proxy endpoint and target endpoint each contain flows that you can arrange i
 
 | Position | Flow type | Description |
 ----|----|---- 
-| 1 | PreFlow | Useful when you need to make sure that certain code executes before anything else happens.<br>何かが起こる前に特定のコードが実行されることを確認する必要がある場合に便利です。|
-|  |  | If the PreFlow is in a target endpoint, it executes after the proxy endpoint's PostFlow.<br> PreFlow がターゲットエンドポイントにある場合、プロキシエンドポイントの PostFlow の後に実行されます。 |
+| 1 | PreFlow | Useful when you need to make sure that certain code executes before anything else happens.<br>何かが起こる前に特定のコードが実行されることを確認する必要がある場合に便利です。<br><br>If the PreFlow is in a target endpoint, it executes after the proxy endpoint's PostFlow.<br>  PreFlow がターゲットエンドポイントにある場合、プロキシエンドポイントの PostFlow の後に実行されます。 |
 | 2 | Conditional Flow<br>条件付きフロー | The place for conditional logic. Executes after the PreFlow and before the PostFlow. <br>条件付き論理の場。PreFlow の後、PostFlow の前に実行します。 |
-| 3 | PostFlow | A good place to need to log data, send a notification that something happened while processing the request, and so on. Executes after conditional flows and PreFlow.<br>データをログに記録したり、リクエスト処理中に何かが起こったという通知を送ったりと、必要なものがあると良い場所です。条件付きフローやPreFlowの後に実行します。|
-|  |  | If the PostFlow is in a proxy endpoint, and there's a target endpoint, the proxy endpoint PostFlow executes before the target endpoint PreFlow.<br>PostFlow がプロキシエンドポイントにあり、ターゲットエンドポイントがある場合、プロキシエンドポイントの PostFlow はターゲットエンドポイントの PreFlow の前に実行されます。|
+| 3 | PostFlow | A good place to need to log data, send a notification that something happened while processing the request, and so on. Executes after conditional flows and PreFlow.<br>データをログに記録したり、リクエスト処理中に何かが起こったという通知を送ったりと、必要なものがあると良い場所です。条件付きフローやPreFlowの後に実行します。<br><br> If the PostFlow is in a proxy endpoint, and there's a target endpoint, the proxy endpoint PostFlow executes before the target endpoint PreFlow.<br>PostFlow がプロキシエンドポイントにあり、ターゲットエンドポイントがある場合、プロキシエンドポイントの PostFlow はターゲットエンドポイントの PreFlow の前に実行されます。|
 | 4 | PostClientFlow (proxy flow only) | A flow for logging messages after a response is returned to the client.<br>応答がクライアントに返された後にメッセージをログに記録するためのフローです。 |
