@@ -133,7 +133,7 @@ The runtime Spike Arrest behavior differs from what you might expect to see from
 ランタイムの Spike Arrest の動作は、入力した分単位や秒単位のリテラル値とは異なります。
 
 For example, say you enter a rate of 6pm (6 requests per minute). In testing, you might think you could send 6 requests in 1 second, as long as they came within a minute. But that's not how the policy enforces the setting. If you think about it, 6 requests inside a 1-second period could be considered a mini spike in some environments.  
-例えば、午後6時のレート（1分あたり6リクエスト）を入力したとします。テストでは、1分以内に来たリクエストであれば、1秒で6つのリクエストを送ることができると考えるかもしれません。しかし、これはポリシーが設定を強制する方法ではありません。考えてみれば、1 秒間に 6 リクエストを送信することは、環境によってはミニスパイクと考えられるかもしれません。
+例えば、6pm（1分あたり6リクエスト）のレートを入力したとします。テストでは、1分以内に来たリクエストであれば、1秒で6つのリクエストを送ることができると考えるかもしれません。しかし、これはポリシーが設定を強制する方法ではありません。考えてみれば、1 秒間に 6 リクエストを送信することは、環境によってはミニスパイクと考えられるかもしれません。
 
 What actually happens, then? To prevent spike-like behavior, Spike Arrest smooths the number of full requests allowed by dividing your settings into smaller intervals:  
 では実際にはどうなるのでしょうか？スパイクのような動作を防ぐために、Spike Arrestでは、設定をより小さな間隔に分割することで、許可されるフルリクエストの数をスムーズにします。
