@@ -18,7 +18,7 @@ Message content is a significant attack vector used by malicious API consumers. 
 In this lab we will see how to use the following policies:  
 このラボでは、以下のポリシーの使用方法について説明します。
  - JSON Threat Protection policy        (JSON 脅威防御ポリシー)
- - Regular Expression Protection policy (通常の表現保護方針)
+ - Regular Expression Protection policy (正規表現保護方針)
 
 # Pre-requisites  前提条件
 
@@ -27,7 +27,7 @@ In this lab we will see how to use the following policies:
 * Basic understanding of [SQL injections](https://en.wikipedia.org/wiki/SQL_injection)  
  [SQL インジェクション](https://en.wikipedia.org/wiki/SQL_injection)の基本的な理解
 * Basic understanding of [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)  
-[正規表現]の基本的な理解(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+[正規表現](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)の基本的な理解
 * Completed a previous [Virtual API Jam](https://github.com/rmistry75/devjam3/tree/master/Labs/VirtualAPIJam) or have the equivalent knowledge of API lifecycle management, and specifically, API proxy policy configuration and enforcement on Apigee Edge. Alternatively, go through the ["Getting started guide"](https://docs.apigee.com/api-platform/get-started/get-started) in the Apigee Docs site.  
 過去の[Virtual API Jam](https://github.com/rmistry75/devjam3/tree/master/Labs/VirtualAPIJam)を修了しているか、APIライフサイクル管理、特にApigee Edge上でのAPIプロキシポリシーの設定と実施に関する同等の知識を持っていること。またはApigee Docsサイトの["Getting started guide"](https://docs.apigee.com/api-platform/get-started/get-started)を参照してください。
 * Completed [Lab 1 - Traffic Management](https://github.com/aliceinapiland/AdvancedVirtualAPIJam/tree/master/SecurityJam/Lab%201%20Traffic%20Management%20-%20Throttle%20APIs), of this Virtual API Jam - Security  
